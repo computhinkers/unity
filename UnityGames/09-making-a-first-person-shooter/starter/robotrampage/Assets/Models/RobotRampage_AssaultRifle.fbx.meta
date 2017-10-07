@@ -1,0 +1,267 @@
+fileFormatVersion: 2
+guid: a8dd7506f95e7d946a1030be85c479db
+timeCreated: 1469452480
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Accent
+    100004: Aim
+    100006: Barrel
+    100008: Case Front-Bottom
+    100010: Case Top
+    100012: Case Top-Mid
+    100014: Case Top-Rear
+    100016: Case.001
+    100018: Cube.005
+    100020: Grip
+    100022: Grip Bottom
+    100024: Hand Grip
+    100026: Trigger Guard
+    100028: Camera
+    100030: Lamp
+    400000: //RootNode
+    400002: Accent
+    400004: Aim
+    400006: Barrel
+    400008: Case Front-Bottom
+    400010: Case Top
+    400012: Case Top-Mid
+    400014: Case Top-Rear
+    400016: Case.001
+    400018: Cube.005
+    400020: Grip
+    400022: Grip Bottom
+    400024: Hand Grip
+    400026: Trigger Guard
+    400028: Camera
+    400030: Lamp
+    2300000: Accent
+    2300002: Aim
+    2300004: Barrel
+    2300006: Case Front-Bottom
+    2300008: Case Top
+    2300010: Case Top-Mid
+    2300012: Case Top-Rear
+    2300014: Case.001
+    2300016: Cube.005
+    2300018: Grip
+    2300020: Grip Bottom
+    2300022: Hand Grip
+    2300024: Trigger Guard
+    2300026: //RootNode
+    3300000: Accent
+    3300002: Aim
+    3300004: Barrel
+    3300006: Case Front-Bottom
+    3300008: Case Top
+    3300010: Case Top-Mid
+    3300012: Case Top-Rear
+    3300014: Case.001
+    3300016: Cube.005
+    3300018: Grip
+    3300020: Grip Bottom
+    3300022: Hand Grip
+    3300024: Trigger Guard
+    3300026: //RootNode
+    4300000: Aim
+    4300002: Trigger Guard
+    4300004: Case Top-Mid
+    4300006: Cube.005
+    4300008: Case Front-Bottom
+    4300010: Hand Grip
+    4300012: Case Top-Rear
+    4300014: Case Top
+    4300016: Case.001
+    4300018: Grip Bottom
+    4300020: Grip
+    4300022: Accent
+    4300024: Barrel
+    7400000: AssaultRile|Fire
+    7400002: AssaultRile|Reload
+    7400004: Grip|Fire
+    7400006: Grip|Reload
+    7400008: Grip|Reload0
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Grip|Fire
+      takeName: Grip|Fire
+      firstFrame: 0
+      lastFrame: 3
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Grip
+        weight: 1
+      - path: Grip/Accent
+        weight: 1
+      - path: Grip/Aim
+        weight: 1
+      - path: Grip/Barrel
+        weight: 1
+      - path: Grip/Case Front-Bottom
+        weight: 1
+      - path: Grip/Case Top
+        weight: 1
+      - path: Grip/Case Top-Mid
+        weight: 1
+      - path: Grip/Case Top-Rear
+        weight: 1
+      - path: Grip/Case.001
+        weight: 1
+      - path: Grip/Cube.005
+        weight: 1
+      - path: Grip/Grip Bottom
+        weight: 1
+      - path: Grip/Hand Grip
+        weight: 1
+      - path: Grip/Trigger Guard
+        weight: 1
+      - path: Lamp
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Grip|Reload
+      takeName: Grip|Reload
+      firstFrame: 0
+      lastFrame: 17
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Accent
+        weight: 1
+      - path: Aim
+        weight: 1
+      - path: Barrel
+        weight: 1
+      - path: Case Front-Bottom
+        weight: 1
+      - path: Case Top
+        weight: 1
+      - path: Case Top-Mid
+        weight: 1
+      - path: Case Top-Rear
+        weight: 1
+      - path: Case.001
+        weight: 1
+      - path: Cube.005
+        weight: 1
+      - path: Grip
+        weight: 1
+      - path: Grip Bottom
+        weight: 1
+      - path: Hand Grip
+        weight: 1
+      - path: Trigger Guard
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 43
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: 6f08686d23bef304a93c7f4af1e8f17c
+timeCreated: 1469452480
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Accent
+    100002: Aim
+    100004: Barrel
+    100006: Case Top-Mid
+    100008: Cube
+    100010: Grip
+    100012: Grip Bottom
+    100014: Hand Grip
+    100016: Inner
+    100018: Outer Casing
+    100020: //RootNode
+    100022: Sight
+    100024: Underside
+    100026: Camera
+    100028: Lamp
+    400000: Accent
+    400002: Aim
+    400004: Barrel
+    400006: Case Top-Mid
+    400008: Cube
+    400010: Grip
+    400012: Grip Bottom
+    400014: Hand Grip
+    400016: Inner
+    400018: Outer Casing
+    400020: //RootNode
+    400022: Sight
+    400024: Underside
+    400026: Camera
+    400028: Lamp
+    2300000: Accent
+    2300002: Aim
+    2300004: Barrel
+    2300006: Case Top-Mid
+    2300008: Cube
+    2300010: Grip
+    2300012: Grip Bottom
+    2300014: Hand Grip
+    2300016: Inner
+    2300018: Outer Casing
+    2300020: Sight
+    2300022: Underside
+    2300024: //RootNode
+    3300000: Accent
+    3300002: Aim
+    3300004: Barrel
+    3300006: Case Top-Mid
+    3300008: Cube
+    3300010: Grip
+    3300012: Grip Bottom
+    3300014: Hand Grip
+    3300016: Inner
+    3300018: Outer Casing
+    3300020: Sight
+    3300022: Underside
+    3300024: //RootNode
+    4300000: Cube
+    4300002: Underside
+    4300004: Sight
+    4300006: Inner
+    4300008: Outer Casing
+    4300010: Aim
+    4300012: Case Top-Mid
+    4300014: Hand Grip
+    4300016: Grip Bottom
+    4300018: Grip
+    4300020: Accent
+    4300022: Barrel
+    7400000: Shotgun|Fire
+    7400002: Shotgun|Reload
+    7400004: Grip|Fire
+    7400006: Grip|Reload
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 43
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
